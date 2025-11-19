@@ -1,0 +1,11 @@
+:root {
+  /* Theme Accent Colors */
+  --ttt-primary: #3b82f6;
+  --ttt-success: #06b6d4;
+  --ttt-secondary: #64748b;
+  --ttt-bg: #f9fafb;
+  --ttt-surface: #fff;
+  --ttt-border: #e5e7eb;
+  --ttt-win-bg: #ecfeff;
+  --ttt-text: #111827;
+}
